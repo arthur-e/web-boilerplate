@@ -1,0 +1,3 @@
+[submodule "lib/dead-simple-grid"]
+	path = lib/dead-simple-grid
+	url = git@github.com:mourner/dead-simple-grid.git
